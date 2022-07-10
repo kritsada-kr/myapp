@@ -1,7 +1,7 @@
 public class Z {
-    private String z;
+    private String zzz;
 
-    public Z(String z) {
-        this.z = z;
+    public Z(String zzz) {
+        this.zzz = zzz;
     }
 }
